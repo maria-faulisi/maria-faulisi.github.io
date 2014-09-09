@@ -10,3 +10,5 @@ Let's make BBQ seitan cheese grit tacos.  You'll need the following ingredients:
 -1/2 pound BBQ seitan
 -corn tortillas
 -pico
+
+![Sweetness](http://addyosmani.com/blog/wp-content/uploads/2013/04/unicorn.jpg)
