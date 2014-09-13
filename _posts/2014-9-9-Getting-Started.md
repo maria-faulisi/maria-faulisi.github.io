@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taco Tuesday
+title: Getting Started
 ---
 
 ##Why I'm here
