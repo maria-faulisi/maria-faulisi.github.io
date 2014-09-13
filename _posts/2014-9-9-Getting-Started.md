@@ -19,4 +19,3 @@ So I'm pretty practical..I work hardest on what I know least until my skills are
 This project inspires me because it reflects the cultural and connective powers of web development.  Taking thousands of individual components and combining them into a single piece is really how the web works.  I hope to make something cool like this one day.
 
 
-![Sadly, I did not make this image.](http://addyosmani.com/blog/wp-content/uploads/2013/04/unicorn.jpg)
