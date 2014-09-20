@@ -10,7 +10,7 @@ When you surf the web, how big is your board (size of your screen)?  Do you surf
 
 ##Okay so let's use them you say?
 
-The problem is that for every device you use to surf, you also have a different browser serving up those hot-n-ready web pages, and while they are getting better and better, they still don't officially support responsive images.  Which means awesome web developers must hack the browser's current capabilities to get you what you need. Currently, we have two options: CSS media queries and an new element on the brink of browser support the picture element which uses a picture tag. (This is a well developed hack from [The Responsive Images Community Group](https://www.responsiveimages.org)).
+The problem is that for every device you use to surf, you also have a different browser serving up those hot-n-ready web pages, and while they are getting better and better, they still don't officially support responsive images.  Which means awesome web developers must hack the browser's current capabilities to get you what you need. Currently, we have two options: CSS media queries and an new element on the brink of browser support, the picture element which uses a picture tag. (This is a well developed JavaScript solution from [The Responsive Images Community Group](https://www.responsiveimages.org)).
 
 So let's look at our CSS solution.  In CSS we need to use the `@media` query to notify the browser that you need to swap out an image (currently only works on background images) if it is within your specification.
 ```css
