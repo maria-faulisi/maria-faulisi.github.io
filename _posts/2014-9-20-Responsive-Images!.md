@@ -39,4 +39,4 @@ Inside of our html, we can now use regular images rather than background images 
 </picture>
 ```
 
-Now you can enjoy serving up the right image for the board (device) you're surfing with.  You're using data wisely and your viewers will be happy cuz they can see what they want as quickly and efficently as possible.  Way to go!  You're awesome ;)
+Now you can enjoy serving up the right image for the board (device) you're surfing with.  You're using data wisely and your viewers will be happy cuz they can see what they want as quickly and efficently as possible.  Way to go!  You're awesome!
