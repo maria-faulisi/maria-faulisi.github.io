@@ -21,7 +21,7 @@ So let's look at our CSS solution.  In CSS we need to use the `@media` query to 
 ```
 Here we've said that we want to use the medium-image.jpg when the screen size has a minimum width of 768px.
 
-To use the picture element, we must use an html shiv 
+To use the picture element, we must use an html shiv: 
 
 ```html
 <script>
