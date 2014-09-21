@@ -14,7 +14,7 @@ The problem is that for every device you use to surf, you also have a different 
 
 So let's look at our CSS solution.  In CSS we need to use the `@media` query to notify the browser that you need to swap out an image (currently only works on background images) if it is within your specification.
 
-```
+```CSS
 @media(min-width: 768px){
   background-image: url('medium-image.jpg');
 }
@@ -25,7 +25,7 @@ Here we've said that we want to use the medium-image.jpg when the screen size ha
 To use the picture element, we must use an html shiv: 
 
 
-```
+```HTML
 <script>
 document.createElement('picture');
 </script>
@@ -37,10 +37,10 @@ and import the picturefill.js `<script>` placing both in the `<header>` of our h
 Inside of our html, we can now use regular images rather than background images that change according to our specification.  We wrap the `<img>` in a `<picture>` tag which uses the `<img>` as a fall back and allows us to use a `<source>` tag with it's media attribute in the same way we used `@media` in CSS.  It sounds hairy, but makes sense when you see it. (Look below)
 
 
-```
+```HTML
 <picture>
   <source media="(min-width: 768)" srcset="medium-image.jpg"></source>
-  <img srcset= "fullImage-size.jpg" alt="Wish I had right sized image"><img>
+  <img srcset= "-fullImage-size.jpg" alt="Wish I had right sized image"><img>
 </picture>
 ```
 
