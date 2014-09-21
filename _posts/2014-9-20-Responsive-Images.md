@@ -32,7 +32,7 @@ and import the picturefill.js `<script>` placing both in the `<header>` of our h
 
 Inside of our html, we can now use regular images rather than background images that change according to our specification.  We wrap the `<img>` in a `<picture>` tag which uses the `<img>` as a fall back and allows us to use a `<source>` tag with it's media attribute in the same way we used `@media` in CSS.  It sounds hairy, but makes sense when you see it. (Look below)
 
-```html
+```
 <picture>
   <source media='(min-width: 768)' srcset="medium-image.jpg"></source>
   <img srcset='fullImage-size.jpg' alt='Wish I had right sized image'>
