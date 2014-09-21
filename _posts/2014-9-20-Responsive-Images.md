@@ -40,7 +40,7 @@ Inside of our html, we can now use regular images rather than background images 
 ```html
 <picture>
   <source media="(min-width: 768)" srcset="medium-image.jpg"></source>
-  <img srcset="fullImage-size.jpg" alt="Wish I had right sized image">
+  <img srcset="(fullImage-size.jpg)" alt="Wish I had right sized image">
 </picture>
 ```
 
