@@ -24,15 +24,18 @@ Here we've said that we want to use the medium-image.jpg when the screen size ha
 
 To use the picture element, we must use an html shiv: 
 
+
 ```html
 <script>
 document.createElement('picture');
 </script>
 ```
 
+
 and import the picturefill.js `<script>` placing both in the `<header>` of our html file.
 
 Inside of our html, we can now use regular images rather than background images that change according to our specification.  We wrap the `<img>` in a `<picture>` tag which uses the `<img>` as a fall back and allows us to use a `<source>` tag with it's media attribute in the same way we used `@media` in CSS.  It sounds hairy, but makes sense when you see it. (Look below)
+
 
 ```html
 <picture>
@@ -40,5 +43,6 @@ Inside of our html, we can now use regular images rather than background images 
   <img srcset='fullImage-size.jpg' alt='Wish I had right sized image'>
 </picture>
 ```
+
 
 Now you can enjoy serving up the right image for the board (device) you're surfing with.  You're using data wisely and your viewers will be happy cuz they can see what they want as quickly and efficently as possible.  Way to go!  You're awesome ;)
