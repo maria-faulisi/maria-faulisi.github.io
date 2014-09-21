@@ -34,7 +34,7 @@ document.createElement('picture');
 
 and import the picturefill.js `<script>` placing both in the `<header>` of our html file.
 
-Inside of our html, we can now use regular images rather than background images that change according to our specification.  We wrap the `<img>` in a `<picture>` tag which uses the `<img>` as a fall back.  In this case we would see fullImage.jpg as the fall back image. The `<picture>` allows us to use a `<source>` tag with it's media attribute in the same way we used `@media` in CSS.  It sounds hairy, but makes sense when you see it. (Look below)
+Inside of our html, we can now use regular images rather than background images that change according to our specification.  We wrap the `<img>` in a `<picture>` tag which uses the `<img>` as a fall back and allows us to use a `<source>` tag with it's media attribute in the same way we used `@media` in CSS.  It sounds hairy, but makes sense when you see it. (Look below)
 
 
 ```
