@@ -13,4 +13,4 @@ It should be noted that yes, some low-income families may not have the best comp
 
 So, why do we web developers bother?  It's not because we are thinking of our Grandmothers, it's because our bosses are thinking about thier bosses, and they are thinking about shareholders, who are thinking if they don't see a good return, their grandmothers will end up at Shady Pines.  Personally, I think the ignorant users will convert.  Throw a message up and tell them "Too bad", and they will update.  The real problem is business.  They want to extend the cost of upgrading as far out as possible, but that just makes me wonder why we developers don't ban together and say, "NOPE, pay us!"  Make it rain!  ;)  
 
-The old IE stranglehold won't last forever.  Be patient... glare and chew, glare and chew.
+New businesses are born every day, and they have the benefit of creating IT infratructure that is new and cool.  Older businesses are going to go the way of the dinosaur or evolve.  The old IE stranglehold won't last forever.  Be patient... glare and chew, glare and chew.
