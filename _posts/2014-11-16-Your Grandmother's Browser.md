@@ -9,6 +9,6 @@ Perhaps, but first let's ask why?  Why are people still using bad browsers?  Wel
 
 The other problem is money, and before you say browsers are free, I'm talking Wall Street money.  I'm talking corporations who want you to spend all of your money while they spend as little of thier own as possible.  Those guys.  Most of the cutting edge browsers don't let them control the browsers the way they'd like, and it's expensive for them to update all they have out on the web.
 
-It should be noted that yes, some low-income families may not have the best computers, but c'mon this is America, you can get a phone this Black Friday or a cheap computer capable of a good browser.
+It should be noted that yes, some low-income families may not have the best computers, but c'mon this is America, you can get a phone or a cheap computer capable of a good browser on Black Friday.
 
 So, why do we web developers bother?  It's not because we are thinking of our Grandmothers, it's because our bosses are thinking about thier bosses, and they are thinking about shareholders, who are thinking if they don't see a good return, their grandmothers will end up at Shady Pines.  Personally, I think the ignorant users will convert.  Throw a message up and tell them "Too bad", and they will update.  The real problem is business.  They want to extend the cost of upgrading as far out as possible, but that just makes me wonder why we developers don't ban together and say, "NOPE, pay us!"  Make it rain!  With every slip of the IE market share, we experience job security and a comfy lifestyle!
