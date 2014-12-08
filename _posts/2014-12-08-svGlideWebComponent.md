@@ -2,8 +2,7 @@
 layout: post
 title: sv-glide Web Component
 ---
-# SvGlide Web Component
-
+#`<sv-glide>`
 This component allows you to make a quick Ux element composed of two svg triangles that you can customize a bit.  Hover over the element and they "glide" away revealing your custom background image or gif that may also be used as a link!  Need a bit of text to describe your element, certainly!
 
 ### Customizable attributes include:
@@ -14,7 +13,7 @@ This component allows you to make a quick Ux element composed of two svg triangl
   - A block of text
 
 ### To use the web component:
-Grab the file for ![svg-glide](http://iam.colum.edu/students/maria.faulisi/ewt/svGlide/svGlideTest.html) and use the html import in the head of your document to link to the file like so:
+Grab the file for [svg-glide](http://iam.colum.edu/students/maria.faulisi/ewt/svGlide/svGlideTest.html) and use the html import in the head of your document to link to the file like so:
 
 {% highlight html %}
 <head>
