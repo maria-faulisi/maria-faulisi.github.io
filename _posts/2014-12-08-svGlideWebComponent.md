@@ -16,14 +16,14 @@ This component allows you to make a quick Ux element composed of two svg triangl
 ### To use the web component:
 Grab the file for [svg-glide] and use the html import in the head of your document to link to the file like so:
 
-```html
+{% highlight html %}
 <head>
 <link rel="import" href="svGlide.html">
 </head>
-```
+{% endhighlight html %}
 
 Currently there is only one way to configure the component:
-```html
+{% highlight html %}
 <sv-glide
     data-background = "url(//ImALinkJustLikeYouUseInCSS)"
     data-link = "placeThePathAsYouWouldInsideOfAnAnchorTagHref"
@@ -34,7 +34,8 @@ Currently there is only one way to configure the component:
     
         <span class = "words">Your Text Here.</span>
     </sv-glide> //closing tag
-```
+{% endhighlight html %}
+
 ### Notes
 
 Things to keep in mind:
