@@ -15,7 +15,8 @@ This component allows you to make a quick Ux element composed of two svg triangl
 
 ### To use the web component:
 Grab the file for [svg-glide] and use the html import in the head of your document to link to the file like so:
-```
+
+```html
 <head>
 <link rel="import" href="svGlide.html">
 </head>
