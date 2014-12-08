@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My sv-glide Web Component
+title: sv-glide Web Component
 ---
 
 This component allows you to make a quick Ux element composed of two svg triangles that you can customize a bit.  Hover over the element and they "glide" away revealing your custom background image or gif that may also be used as a link!  Need a bit of text to describe your element, certainly!
