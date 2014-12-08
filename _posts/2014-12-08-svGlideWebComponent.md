@@ -14,7 +14,7 @@ This component allows you to make a quick Ux element composed of two svg triangl
   - A block of text
 
 ### To use the web component:
-Grab the file for [!svg-glide](http://iam.colum.edu/students/maria.faulisi/ewt/svGlide/svGlideTest.html) and use the html import in the head of your document to link to the file like so:
+Grab the file for ![svg-glide](http://iam.colum.edu/students/maria.faulisi/ewt/svGlide/svGlideTest.html) and use the html import in the head of your document to link to the file like so:
 
 {% highlight html %}
 <head>
@@ -41,7 +41,7 @@ Currently there is only one way to configure the component:
 Things to keep in mind:
 
 * The `data-svgWidth` and `data-svgHeight` must be in px format.
-* `data-leftFill` and `data-rightFill` can be in any acceptable CSS format. (ie: hexcode, rgb, rgba, color name.
+* `data-leftFill` and `data-rightFill` can be in any acceptable CSS format. (ie: hexcode, rgb, rgba, color name).
 * You do not have to use a span tag, any tag for text will work but you do need to assign the tag the class "words".
 * You do not need to include text or a link.
 
