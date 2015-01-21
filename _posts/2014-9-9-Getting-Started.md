@@ -5,9 +5,9 @@ title: Getting Started
 
 ##Why I'm here
 
-Well I'm here so that I don't hate what I do for a living any longer.  As you may remember from our first day of class, I'm an old fine arts major and that didn't get me too far.  I ended up working in sales, which I was good at, but hated.  Two years ago I decided, "I can't go on... :weary:"  So I took stock of my skills with an eye on change.  I looked at those skills and thought..Graphic Design/Advertising!  Then I trolled around the internet and thought...INTERNET!  
+Well I'm here so that I don't hate what I do for a living any longer.  I'm an old fine arts major and that didn't get me too far.  I ended up working in sales, which I was good at, but hated.  Two years ago I decided, "I can't go on... :weary:"  So I took stock of my skills with an eye on change.  I looked at those skills and thought..Graphic Design/Advertising!  Then I trolled around the internet and thought...INTERNET!  
 
-I've suffered a few migraines learning some of my new skills...I'm looking at you Intro to Programming, but I'm really happy with my choice to study web development.  One of the most comforting things I've come to appreciate about web technologies are thier somewhat unforgiveable nature.  If you don't know what you're doing, if you execute something incorrectly, it simply does not work.  It's a two fold battle, on one hand you must be technically precise, on the other hand you have to think in terms of expression and how your work is being perceived from a creative standpoint.  I don't think I'll ever hate what I do for a living again.  :+1:      
+I've suffered a few migraines learning some of my new skills...I'm looking at you Intro to Programming, but I'm really happy with my choice to study web development.  One of the most comforting things I've come to appreciate about web technologies are their somewhat unforgiveable nature.  If you don't know what you're doing, if you execute something incorrectly, it simply does not work.  It's a two fold battle, on one hand you must be technically precise, on the other hand you have to think in terms of expression and how your work is being perceived from a creative standpoint.  I don't think I'll ever hate what I do for a living again.  :+1:      
 
 ###Current Inspiration
 
